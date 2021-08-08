@@ -1,0 +1,139 @@
+{
+	"fields": [
+		{
+			"name": "FiscalYear"
+		},
+		{
+			"name": "Period"
+		},
+		{
+			"name": "BillingAccountId"
+		},
+		{
+			"name": "BillingAccountName"
+		},
+		{
+			"name": "BillingProfileId"
+		},
+		{
+			"name": "BillingProfileName"
+		},
+		{
+			"name": "SubscriptionId"
+		},
+		{
+			"name": "SubscriptionName"
+		},
+		{
+			"name": "Date"
+		},
+		{
+			"name": "Product"
+		},
+		{
+			"name": "PartNumber"
+		},
+		{
+			"name": "MeterId"
+		},
+		{
+			"name": "ServiceFamily"
+		},
+		{
+			"name": "MeterCategory"
+		},
+		{
+			"name": "MeterSubCategory"
+		},
+		{
+			"name": "MeterRegion"
+		},
+		{
+			"name": "MeterName"
+		},
+		{
+			"name": "Quantity"
+		},
+		{
+			"name": "EffectivePrice"
+		},
+		{
+			"name": "Cost"
+		},
+		{
+			"name": "UnitPrice"
+		},
+		{
+			"name": "BillingCurrency"
+		},
+		{
+			"name": "ResourceLocation"
+		},
+		{
+			"name": "AvailabilityZone"
+		},
+		{
+			"name": "ConsumedService"
+		},
+		{
+			"name": "ResourceId"
+		},
+		{
+			"name": "ResourceName"
+		},
+		{
+			"name": "ServiceInfo1"
+		},
+		{
+			"name": "ServiceInfo2"
+		},
+		{
+			"name": "AdditionalInfo"
+		},
+		{
+			"name": "Tags"
+		},
+		{
+			"name": "UnitOfMeasure"
+		},
+		{
+			"name": "ResourceGroup"
+		},
+		{
+			"name": "ReservationId"
+		},
+		{
+			"name": "ReservationName"
+		},
+		{
+			"name": "ProductOrderId"
+		},
+		{
+			"name": "ProductOrderName"
+		},
+		{
+			"name": "Term"
+		},
+		{
+			"name": "PublisherName"
+		},
+		{
+			"name": "PlanName"
+		},
+		{
+			"name": "ChargeType"
+		},
+		{
+			"name": "Frequency"
+		},
+		{
+			"name": "PublisherType"
+		},
+		{
+			"name": "PayGPrice"
+		},
+		{
+			"name": "PricingModel"
+		}
+	]
+}

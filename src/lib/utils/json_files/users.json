@@ -1,0 +1,60 @@
+{
+	"users": [
+		{
+			"name": "Marcus Lofton",
+			"role": "Manager",
+			"email": "mlofton@rti.org",
+			"status": "Active",
+			"teams": 4,
+			"lastLogin": "June 10 21 4:00PM"
+		},
+		{
+			"name": "Mike Turner",
+			"role": "User",
+			"email": "mturner@rti.org",
+			"status": "Active",
+			"teams": 2,
+			"lastLogin": "Jan 4 21 12:20PM"
+		},
+		{
+			"name": "Lisa Walker",
+			"role": "User",
+			"email": "lisaturner@rti.org",
+			"status": "Active",
+			"teams": 5,
+			"lastLogin": "Mar 21 21 9:04AM"
+		},
+		{
+			"name": "BriAnna Cherry",
+			"role": "Admin",
+			"email": "cherry@rti.org",
+			"status": "Active",
+			"teams": 7,
+			"lastLogin": "Jan 4 21 1:33PM"
+		},
+		{
+			"name": "Danny Fry",
+			"role": "User",
+			"email": "dfry@rti.org",
+			"status": "Suspended",
+			"teams": 2,
+			"lastLogin": "Feb 4 21 3:15PM"
+		},
+		{
+			"name": "Kathleen Popper",
+			"role": "User",
+			"email": "katpop@rti.org",
+			"status": "Active",
+			"teams": 1,
+			"lastLogin": "May 12 21 10:42AM"
+		},
+		{
+			"name": "Rena Ogobland",
+			"role": "User",
+			"email": "rogobland@rti.org",
+			"status": "Terminated",
+			"teams": 2,
+			"lastLogin": "June 2 21 12:00PM"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"modules": [
+		{
+			"name": "Basic Remote Access"
+		},
+		{
+			"name": "FTP Hosting"
+		},
+		{
+			"name": "Leased Servers"
+		},
+		{
+			"name": "Leased Shares"
+		},
+		{
+			"name": "Private Network WATS"
+		},
+		{
+			"name": "Public Network WATS"
+		},
+		{
+			"name": "SQLServer DB Charges"
+		},
+		{
+			"name": "Virtual Computing"
+		},
+		{
+			"name": "Web Hosting Service"
+		}
+	]
+}

@@ -1,0 +1,98 @@
+{
+	"months": [
+		{
+			"month": "October",
+			"cost": 93756.74809,
+			"expenses": 50212.2,
+			"isProfit": true,
+			"profit_loss_cost": 102302.23
+		},
+		{
+			"month": "November",
+			"cost": 65234.23425,
+			"expenses": 4321.31,
+			"isProfit": false,
+			"profit_loss_cost": -45874.23
+		},
+
+		{
+			"month": "December",
+			"cost": 54212.423,
+			"expenses": 1142.5,
+			"isProfit": true,
+			"profit_loss_cost": 85632.9
+		},
+
+		{
+			"month": "January",
+			"cost": 48923.2453,
+			"expenses": 29482.34,
+			"isProfit": true,
+			"profit_loss_cost": 83431.34
+		},
+
+		{
+			"month": "February",
+			"cost": 33923.34232,
+			"expenses": 93022.23,
+			"isProfit": false,
+			"profit_loss_cost": -40123.85
+		},
+
+		{
+			"month": "March",
+			"cost": 45322.43565,
+			"expenses": 5323.24,
+			"isProfit": true,
+			"profit_loss_cost": 60341.55
+		},
+
+		{
+			"month": "April",
+			"cost": 89323.24423,
+			"expenses": 94322.23,
+			"isProfit": true,
+			"profit_loss_cost": 100000.43
+		},
+
+		{
+			"month": "May",
+			"cost": 47262.23234,
+			"expenses": 34942.23,
+			"isProfit": true,
+			"profit_loss_cost": 60243.24
+		},
+
+		{
+			"month": "June",
+			"cost": 93824.2345,
+			"expenses": 23774.12,
+			"isProfit": true,
+			"profit_loss_cost": 12024.77
+		},
+
+		{
+			"month": "July",
+			"cost": 5169.1001,
+			"expenses": 2000.9,
+			"isProfit": false,
+			"profit_loss_cost": -4000.43
+		},
+
+		{
+			"month": "August",
+			"cost": 0,
+			"expenses": 0,
+			"isProfit": true,
+			"profit_loss_cost": 0
+		},
+
+		{
+			"month": "September",
+			"cost": 0,
+			"expenses": 0,
+			"isProfit": true,
+			"profit_loss_cost": 0
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"projects": [
+		{
+			"name": "Alpha",
+			"cost": 93756.74809,
+			"expenses": 50212.2,
+			"isProfit": true,
+			"profit_loss_cost": 102302.23
+		},
+		{
+			"name": "Beta",
+			"cost": 65234.23425,
+			"expenses": 4321.31,
+			"isProfit": false,
+			"profit_loss_cost": -45874.23
+		},
+
+		{
+			"name": "Charlie",
+			"cost": 54212.423,
+			"expenses": 1142.5,
+			"isProfit": true,
+			"profit_loss_cost": 85632.9
+		},
+
+		{
+			"name": "Delta",
+			"cost": 48923.2453,
+			"expenses": 29482.34,
+			"isProfit": true,
+			"profit_loss_cost": 83431.34
+		},
+
+		{
+			"name": "Echo",
+			"cost": 39092.44242,
+			"expenses": 95023.13,
+			"isProfit": false,
+			"profit_loss_cost": -44124.28
+		},
+
+		{
+			"name": "Foxtrot",
+			"cost": 139146.67015,
+			"expenses": 29097.36,
+			"isProfit": true,
+			"profit_loss_cost": 72366.32
+		},
+
+		{
+			"name": "Golf",
+			"cost": 136585.47657,
+			"expenses": 129264.46,
+			"isProfit": true,
+			"profit_loss_cost": 160243.67
+		}
+	]
+}
