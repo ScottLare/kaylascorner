@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/about/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/about/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/admin/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/billUtils/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/billing/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/dashboard/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/email/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/help/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/hierachy/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/history/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/import/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/management/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/message/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/months/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/notifications/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/projects/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/schedule/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/settings/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/todos/
+		</loc>
+		<priority>0.85</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/users/ross/
+		</loc>
+		<priority>0.69</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/users/chandler/
+		</loc>
+		<priority>0.69</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/users/joe/
+		</loc>
+		<priority>0.69</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/users/rachel/
+		</loc>
+		<priority>0.69</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/users/monica/
+		</loc>
+		<priority>0.69</priority>
+	</url>
+
+
+	<url>
+		<loc>
+			https://sveltekit-starter.vercelapp.com/users/phoebe/
+		</loc>
+		<priority>0.69</priority>
+	</url>
+
+</urlset>
